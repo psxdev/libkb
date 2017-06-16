@@ -1,6 +1,4 @@
-# libkb
-libkb a little library for VITA for your bluetooth keyboard
-DEBUGNET FOR VITA
+LIBKB FOR VITA
 =================
  
  What does this do?
