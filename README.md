@@ -67,4 +67,5 @@ LIBKB FOR VITA
   
   - team molecule for bring henkaku to make life easier for homebrew developer 
   - All people working in vitasdk
+  - Stolen code from debug_print sample :P
   
